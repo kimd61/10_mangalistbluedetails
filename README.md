@@ -1,4 +1,4 @@
-# mymangalist
+# mymangalist rework
 
 a responsive web application for tracking and discovering manga.
 
